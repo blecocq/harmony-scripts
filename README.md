@@ -2,7 +2,7 @@
 
 Scripts I made to save time on Harmony Toonboom 
 
-I am not a professional coder so there may be mistakes. Don't hesitate to tell me!
+I am not a professional coder so there may be mistakes. 
 
 ------------------------------
 
